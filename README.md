@@ -1,4 +1,4 @@
-Верстка сайту
+
 Сайт було створено для суші-бару "Асахі"  
 
 ![Drag Racing](images/index/hero-img.jpg) 
